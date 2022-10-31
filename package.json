@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusr01/tp_teste_software.git"
+  },
+  "author": "Abner Davi and Vinicius Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusr01/tp_teste_software/issues"
+  },
+  "homepage": "https://github.com/viniciusr01/tp_teste_software#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.19.0"
+  }
+}
